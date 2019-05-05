@@ -1,0 +1,68 @@
+@media(max-width:1000px){
+
+.container{
+  width: 100%;
+}
+.header-list{
+  display: none;
+}
+header{
+  width: 100%;
+}
+#bar{
+  display: block;
+}
+#top{
+  text-align: left;
+  padding: 100px 20px;
+}
+#top h1{
+  font-size: 30px;
+}
+#top p{
+  font-size: 15px;
+}
+#top .fas{
+  display: none;
+}
+.heading{
+  padding: 0 10px;
+}
+.heading h2{
+  font-size: 25px;
+}
+.heading p{
+  font-size: 16px;
+}
+.twitter{
+  display: none;
+}
+.twitter2{
+  display: block;
+  color: white;
+  padding: 10px;
+  background-color: #55acee;
+  border-radius: 4px;
+  text-align: center;
+  margin-top: 30px;
+}
+.twitter-icon{
+  margin-right: 10px;
+}
+.text, .text2{
+  float: none;
+  padding: 0;
+  width: 100%;
+}
+.img, .img2{
+  float: none;
+  padding: 0;
+  width: 100%;
+}
+.box{
+  margin: 40px 0;
+  padding: 70px 10px;
+}
+#exhibition ul{
+  margin-bottom: 20px;
+}
